@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/TestLeaf.h>
 
 

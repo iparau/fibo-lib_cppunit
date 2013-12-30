@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/TestSuite.h>
 #include <cppunit/extensions/TestFixtureFactory.h>
 #include <cppunit/extensions/TestNamer.h>

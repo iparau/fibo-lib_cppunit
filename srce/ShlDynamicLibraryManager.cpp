@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/Portability.h>
 
 #if defined(CPPUNIT_HAVE_UNIX_SHL_LOADER)

@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/Portability.h>
 #include <cppunit/extensions/TypeInfoHelper.h>
 

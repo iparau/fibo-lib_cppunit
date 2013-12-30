@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/extensions/TestSetUp.h>
 
 CPPUNIT_NS_BEGIN

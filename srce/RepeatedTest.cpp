@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/extensions/RepeatedTest.h>
 #include <cppunit/TestResult.h>
 

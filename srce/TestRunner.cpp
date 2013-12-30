@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/config/SourcePrefix.h>
 #include <cppunit/TestRunner.h>
 #include <cppunit/TestPath.h>

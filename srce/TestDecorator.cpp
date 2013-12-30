@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/extensions/TestDecorator.h>
 
 CPPUNIT_NS_BEGIN

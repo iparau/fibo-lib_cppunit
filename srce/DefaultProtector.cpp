@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/Exception.h>
 #include <cppunit/extensions/TypeInfoHelper.h>
 #include "DefaultProtector.h"

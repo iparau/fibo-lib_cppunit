@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/plugin/PlugInParameters.h>
 
 #if !defined(CPPUNIT_NO_TESTPLUGIN)

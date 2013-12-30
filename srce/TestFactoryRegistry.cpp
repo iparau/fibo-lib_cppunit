@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/config/SourcePrefix.h>
 #include <cppunit/extensions/TestFactoryRegistry.h>
 #include <cppunit/portability/CppUnitMap.h>

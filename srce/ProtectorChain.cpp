@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include "ProtectorChain.h"
 
 CPPUNIT_NS_BEGIN

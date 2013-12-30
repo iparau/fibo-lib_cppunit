@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/TestAssert.h>
 #include <cppunit/portability/FloatingPoint.h>
 

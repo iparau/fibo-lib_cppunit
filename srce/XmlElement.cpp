@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/tools/StringTools.h>
 #include <cppunit/tools/XmlElement.h>
 #include <stdexcept>

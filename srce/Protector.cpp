@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/Exception.h>
 #include <cppunit/Message.h>
 #include <cppunit/Protector.h>

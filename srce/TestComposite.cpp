@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/TestComposite.h>
 #include <cppunit/TestResult.h>
 

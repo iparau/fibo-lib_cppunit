@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/BriefTestProgressListener.h>
 #include <cppunit/Test.h>
 #include <cppunit/TestFailure.h>

@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include <cppunit/extensions/TestNamer.h>
 #include <cppunit/extensions/TypeInfoHelper.h>
 #include <string>
