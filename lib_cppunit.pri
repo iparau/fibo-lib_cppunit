@@ -89,3 +89,6 @@ SOURCES += ./srce/AdditionalMessage.cpp \
 	./srce/XmlOutputter.cpp \
 	./srce/XmlOutputterHook.cpp 
 
+unix {
+    HEADERS += ./incl/cppunit/config-auto.h
+}
