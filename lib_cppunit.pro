@@ -12,10 +12,6 @@ TARGET = cppunit
 
 DEFINES *= _LIB
 
-win32 {
-	DEFINES *= UNICODE
-}
-
 INCLUDEPATH += $$LIB_CPPUNIT_DIR_INC
 
 CONFIG(debug,debug|release) {
