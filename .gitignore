@@ -9,4 +9,5 @@
 /*.filters
 /WinMakefile
 /LinMakefile
+/Makefile
 /*.pdb
